@@ -1,7 +1,6 @@
 # star-networks
 
-
-Research questions:
+Research Questions:
 
 1. How widespread is the phenomenon of directors re-using the same crew?
 
@@ -10,3 +9,6 @@ Research questions:
 3. What are the properties of the film-director network? 
  
 4. Are there any interesting nodes/links?
+
+--- 
+Network Science final project 
