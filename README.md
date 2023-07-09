@@ -1,5 +1,7 @@
 # star-networks
 
+Network of directors and their crew members examining the phenomenon of directors re-using the same crew. 
+
 Research Questions:
 
 1. How widespread is the phenomenon of directors re-using the same crew?
@@ -10,5 +12,6 @@ Research Questions:
  
 4. Are there any interesting nodes/links?
 
-*** 
+## 
+
 Network Science Final Project (Spring 2023)
